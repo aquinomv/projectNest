@@ -73,5 +73,4 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 =======
-# talanta
->>>>>>> 564b5732123c71b120dc5910376555ba0a953b61
+
